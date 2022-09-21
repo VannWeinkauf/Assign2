@@ -1,5 +1,5 @@
 <?php
 
-echo "Wednesday";
+echo "Thursday";
 
 
